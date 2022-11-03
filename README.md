@@ -4,13 +4,13 @@
 ##### Veja um pouco sobre meu repositório
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasegawaTaizou)
 
+<hr>
+
 <div>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HasegawaTaizou&show_icons=true&theme=radical">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasegawaTaizou&layout=compact">
 </div>
-
-<hr>
 
 ## Tecnologias que utilizo no meu dia a dia
 
