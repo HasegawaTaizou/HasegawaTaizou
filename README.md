@@ -42,4 +42,4 @@ Sou iniciante na área de criação e manutenção de sites. Tenho conhecimento 
 - Capacidade de Inovação
 - Responsável
 
-![Snake animation](https://github.com/HasegawaTaizou/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HasegawaTaizou/HasegawaTaizou/blob/output/github-contribution-grid-snake.svg)
