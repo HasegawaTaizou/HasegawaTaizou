@@ -10,7 +10,9 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasegawaTaizou&layout=compact">
 </div>
 
-### Tecnologias que utilizo no meu dia a dia
+<hr>
+
+## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block"></br>
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -31,9 +33,13 @@
 </div>
 </br>
 
-### Sobre mim
+<hr>
+
+## Sobre mim
 
 Sou iniciante na área de criação e manutenção de sites. Tenho conhecimento em prototipação e design; sempre pensando na experiência do usuário. Sou apaixonado pelo mundo digital e principalmente desenvolvimento; sempre procurando inspiração nos meus colegas de trabalho e no mundo que me rodeia!
+
+<hr>
 
 ### Soft Skills
 
@@ -43,5 +49,7 @@ Sou iniciante na área de criação e manutenção de sites. Tenho conhecimento 
 - Trabalhar em Equipe 
 - Capacidade de Inovação
 - Responsável
+
+<hr>
 
 ![Snake animation](https://github.com/HasegawaTaizou/HasegawaTaizou/blob/output/github-contribution-grid-snake.svg)
