@@ -1,8 +1,8 @@
-## # :octocat: Olá! Eu sou o Caio Palermo ✋  
+### :octocat: Olá! Eu sou o Caio Palermo ✋  
 <img src="https://i.picasion.com/pic92/e1da85b758f0b10aad07d23e33ec693c.gif" width="150" height="150" />
 
 ##### Veja um pouco sobre meu repositório
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasegawaTaizou)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasegawaTaizou?tab=repositories)
 
 <hr>
 
